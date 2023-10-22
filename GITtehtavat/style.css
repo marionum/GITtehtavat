@@ -8,6 +8,9 @@
     box-sizing: inherit;
 }
 
+body {
+    background-color: antiquewhite;
+}
 .wrapper {
     display: grid;
     grid-template-columns: auto;
