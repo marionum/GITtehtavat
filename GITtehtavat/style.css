@@ -73,8 +73,9 @@ header {
         line-height: 1,8em;
         font-weight: bold;
         font-size: 0.8em;
-        padding: 1em 2em;
-        margin-right: 1em;
+        width: 10em;
+        height: 3em;
+        margin-bottom: 1em;
     }
 
     .question
@@ -87,8 +88,8 @@ header {
         line-height: 1,8em;
         font-weight: bold;
         font-size: 0.8em;
-        padding: 1em 2em;
-        margin-right: 1em; 
+        width: 10em;
+        height: 3em;
     }
     .img-hero-left-desktop {
         display: none;
