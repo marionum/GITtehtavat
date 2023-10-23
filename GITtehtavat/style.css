@@ -8,6 +8,9 @@
     box-sizing: inherit;
 }
 
+body {
+    background-color: antiquewhite;
+}
 .wrapper {
     display: grid;
     grid-template-columns: auto;
@@ -217,6 +220,7 @@ header {
     .footer-button
     {
         width: auto;
+        height: 3em;
         margin-left: auto;
         margin-right: auto;
         background-color: #855FB1;
