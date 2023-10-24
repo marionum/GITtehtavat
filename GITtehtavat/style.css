@@ -8,6 +8,9 @@
     box-sizing: inherit;
 }
 
+body {
+    background-color: antiquewhite;
+}
 .wrapper {
     display: grid;
     grid-template-columns: auto;
@@ -73,8 +76,9 @@ header {
         line-height: 1,8em;
         font-weight: bold;
         font-size: 0.8em;
-        padding: 1em 2em;
-        margin-right: 1em;
+        width: 10em;
+        height: 3em;
+        margin-bottom: 1em;
     }
 
     .question
@@ -87,8 +91,8 @@ header {
         line-height: 1,8em;
         font-weight: bold;
         font-size: 0.8em;
-        padding: 1em 2em;
-        margin-right: 1em; 
+        width: 10em;
+        height: 3em;
     }
     .img-hero-left-desktop {
         display: none;
@@ -216,6 +220,7 @@ header {
     .footer-button
     {
         width: auto;
+        height: 3em;
         margin-left: auto;
         margin-right: auto;
         background-color: #855FB1;
